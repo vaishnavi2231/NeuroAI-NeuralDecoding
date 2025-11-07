@@ -11,10 +11,9 @@ A personal blog documenting my continuous exploration of neural signal decoding,
 
 | Date | Title | Topics |
 |------|--------|--------|
-| Jan 2025 | [Understanding Brain Waves: The Foundation of EEG](blogs/2025-01-Intro-to-BCI.md) | EEG, Signal Processing |
+| Sept 2025 | [Understanding Brain Waves: The Foundation of EEG](Blogs/Understanding-Basic-Neuroscience.md) | EEG, Signal Processing |
 | Feb 2025 | [Preprocessing EEG Data with MNE-Python](blogs/2025-02-EEG-Preprocessing.md) | MNE, Filtering, Epoching |
-| Mar 2025 | [Decoding Motor Imagery Using CSP and SVM](blogs/2025-03-Motor-Imagery-Classification.md) | Feature Extraction, SVM |
-| Apr 2025 | [CNNs and LSTMs for EEG Classification](blogs/2025-04-Deep-Learning-for-BCI.md) | Deep Learning, PyTorch |
+
 
 ---
 
