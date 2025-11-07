@@ -11,7 +11,7 @@ A personal blog documenting my continuous exploration of neural signal decoding,
 
 | Date | Title | Topics |
 |------|--------|--------|
-| Sept 2025 | [Understanding Basic Neuroscience](Blogs/Understanding Basic Neuroscience.md) | EEG, Signal Processing |
+| Sept 2025 | [Understanding Basic Neuroscience](https://github.com/vaishnavi2231/NeuroAI-NeuralDecoding/blob/main/Blogs/Understanding%20Basic%20Neuroscience.md) | Neuron, Action Potentials, Spikes |
 | Feb 2025 | [Preprocessing EEG Data with MNE-Python](blogs/2025-02-EEG-Preprocessing.md) | MNE, Filtering, Epoching |
 
 
