@@ -15,6 +15,8 @@ Neurons are **complex electrochemical devices** that:
 Think of them as **tiny biological processors** — or “leaky bags of charged liquid” — constantly balancing ions to create electrical activity.
 
 ![Neuron Structure](https://upload.wikimedia.org/wikipedia/commons/b/b5/Neuron.svg)
+
+
 *Image source: Wikimedia Commons — ["Neuron structure"](https://commons.wikimedia.org/wiki/File:Neuron.svg),  
 licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
@@ -32,6 +34,11 @@ It has **ion channels** that selectively allow the passage of certain charged pa
 | — | High **Calcium (Ca²⁺)** |
 
 Because of this **ion imbalance**, a potential difference of about **–65 mV to –70 mV** exists across the membrane when the neuron is at rest — called the **Resting Membrane Potential**.
+
+![Ionic Channels - Redrawn](Images/Ionic_Channels.heic)
+
+*Figure: Neuron structure redrawn and simplified by Vaishnavi Gawale,  
+based on "Brain-Computer Interfacing: An Introduction" by Rajesh P. N. Rao (2013).*
 
 ---
 
