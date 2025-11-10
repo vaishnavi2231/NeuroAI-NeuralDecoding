@@ -51,6 +51,6 @@ it’s a **learning log**, **research diary**, and **open resource** for anyone 
 ---
 
 ## 📫 Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:youremail@domain.com)
+- [LinkedIn](https://www.linkedin.com/in/vgawale/)
+- [Portfolio](https://vaishnavi2231.github.io/profile/)
+- [Email](mailto:vgawale@buffalo.edu)
