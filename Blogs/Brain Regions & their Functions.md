@@ -37,7 +37,13 @@ The CNS comprises the **brain** and **spinal cord**.
 
 ---
 
-## 🧠 Brain Regions  
+## 🧠 Brain Motor & Sensory Regions  
+
+![BrainMotor and Sensory Regions](../images/brain.png)
+
+
+*Image source: Wikimedia Commons — ["Blausen 0102 Brain Motor & Sensory"](https://commons.wikimedia.org/wiki/File:Blausen_0102_Brain_Motor%26Sensory.png),  
+licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). No changes made.*  
 
 The brain can be broadly viewed in **three hierarchical layers**, each supporting distinct functions.
 
@@ -92,15 +98,6 @@ Additional key structures include:
 The cortex operates as a **hierarchically organized network** of sensory and motor regions —  
 inputs arrive mainly in **middle cortical layers**, while outputs are generated from **upper and lower layers**.  
 
----
-
-## 🧠 Brain Motor & Sensory Regions  
-
-![BrainMotor and Sensory Regions](../images/brain.png)
-
-
-*Image source: Wikimedia Commons — ["Blausen 0102 Brain Motor & Sensory"](https://commons.wikimedia.org/wiki/File:Blausen_0102_Brain_Motor%26Sensory.png),  
-licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). No changes made.*  
 
 ---
 
