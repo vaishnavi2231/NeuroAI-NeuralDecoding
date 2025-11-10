@@ -35,8 +35,10 @@ It has **ion channels** that selectively allow the passage of certain charged pa
 
 Because of this **ion imbalance**, a potential difference of about **–65 mV to –70 mV** exists across the membrane when the neuron is at rest — called the **Resting Membrane Potential**.
 
-![Ionic Channels](../images/Ionic_Channels.heic)
+![Ionic Channels](../images/Photo_orig.pdf)
 
+
+![Ionic Channels](../images/Photo.pdf)
 
 *Figure: Ionic Channels redrawn by Vaishnavi Gawale,  
 based on "Brain-Computer Interfacing: An Introduction" by Rajesh P. N. Rao (2013).*
