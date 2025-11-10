@@ -14,7 +14,7 @@ Neurons are **complex electrochemical devices** that:
 
 Think of them as **tiny biological processors** — or “leaky bags of charged liquid” — constantly balancing ions to create electrical activity.
 
-![Neuron Structure](https://upload.wikimedia.org/wikipedia/commons/b/b5/Neuron.svg)
+![Neuron Structure](../images/Neuron.png)
 
 
 *Image source: Wikimedia Commons — ["Neuron structure"](https://commons.wikimedia.org/wiki/File:Neuron.svg),  
