@@ -7,13 +7,21 @@ A personal blog documenting my continuous exploration of neural signal decoding,
 
 ---
 
-## ✍️ Latest Blog Posts
+## ✍️ Blog Posts
 
 | Date | Title | Topics |
 |------|--------|--------|
 | Oct 2025 | [Understanding Basic Neuroscience](https://github.com/vaishnavi2231/NeuroAI-NeuralDecoding/blob/main/Blogs/Understanding%20Basic%20Neuroscience.md) | Neuron, Action Potentials, Spikes |
 | Oct 2025 | [Brain Regions and Functions](https://github.com/vaishnavi2231/NeuroAI-NeuralDecoding/blob/main/Blogs/Brain%20Regions%20%26%20their%20Functions) | Brain Anatomy, Regions, Functions |
 
+
+---
+
+## ✍️ Coding Material (Jupyter Notebooks)
+
+| Date | Title | Topics |
+|------|--------|--------|
+| Oct 2025 | [1. Basic of LIF Neuron using Python](Code/1_Basic_of_LIF_neuron_using_Python.ipynb) |
 
 ---
 
