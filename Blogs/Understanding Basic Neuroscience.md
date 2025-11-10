@@ -37,10 +37,6 @@ Because of this **ion imbalance**, a potential difference of about **–65 mV to
 
 ![Ionic Channels](../images/Ionic_Channels.png)
 
-
-
-![Synapse](../images/Synapse.png)
-
 *Figure: Ionic Channels redrawn by Vaishnavi Gawale,  
 based on "Brain-Computer Interfacing: An Introduction" by Rajesh P. N. Rao (2013).*
 
@@ -86,6 +82,12 @@ They can be:
 - Make the neuron **less likely to fire**
 
 Each neuron forms **only one type of synapse** — excitatory or inhibitory.
+
+![Synapse](../images/Synapse.png)
+
+*Figure: Ionic Channels redrawn by Vaishnavi Gawale,  
+based on "Brain-Computer Interfacing: An Introduction" by Rajesh P. N. Rao (2013).*
+
 
 ---
 
