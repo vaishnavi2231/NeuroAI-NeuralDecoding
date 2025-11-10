@@ -96,7 +96,8 @@ inputs arrive mainly in **middle cortical layers**, while outputs are generated 
 
 ## 🧠 Brain Motor & Sensory Regions  
 
-![Brain Motor and Sensory Regions](https://upload.wikimedia.org/wikipedia/commons/d/d2/Blausen_0102_Brain_Motor%26Sensory.png)  
+![BrainMotor and Sensory Regions](../images/brain.png)
+
 
 *Image source: Wikimedia Commons — ["Blausen 0102 Brain Motor & Sensory"](https://commons.wikimedia.org/wiki/File:Blausen_0102_Brain_Motor%26Sensory.png),  
 licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). No changes made.*  
