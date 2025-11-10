@@ -85,7 +85,7 @@ Each neuron forms **only one type of synapse** — excitatory or inhibitory.
 
 ![Synapse](../images/Synapse.png)
 
-*Figure: Ionic Channels redrawn by Vaishnavi Gawale,  
+*Figure: Synapses redrawn by Vaishnavi Gawale,  
 based on "Brain-Computer Interfacing: An Introduction" by Rajesh P. N. Rao (2013).*
 
 
