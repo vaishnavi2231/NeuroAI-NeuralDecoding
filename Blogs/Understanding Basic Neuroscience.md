@@ -37,6 +37,9 @@ Because of this **ion imbalance**, a potential difference of about **–65 mV to
 
 ![Ionic Channels](../images/Photo_orig.pdf)
 
+<object data="../images/Photo_orig.pdf" type="application/pdf" width="100%" height="600px">
+    <p>PDF figure: <a href="../images/Photo_orig.pdf">Download here</a>.</p>
+</object>
 
 ![Ionic Channels](../images/Photo.pdf)
 
