@@ -22,7 +22,7 @@ A personal blog documenting my continuous exploration of neural signal decoding,
 | Date | Title | Topics |
 |------|--------|--------|
 | Oct 2025 | [1. Basic of LIF Neuron using Python](Code/1_Basic_of_LIF_neuron_using_Python.ipynb) | Syanptic Input, Spikes visualization |
-| Jan 2026 | [2. Basics of Modeling : What, How, & Why Models](Code/2_Basics_of_Modeling.ipynb.ipynb) | Syanptic Input, Spikes visualization |
+| Jan 2026 | [2. Basics of Modeling : What, How, & Why Models](Code/2_Basics_of_Modeling.ipynb) | Syanptic Input, Spikes visualization |
 
 
 ---
